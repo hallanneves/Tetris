@@ -1,4 +1,3 @@
-package org.psnbtech;
 
 import java.awt.BorderLayout;
 import java.awt.event.KeyAdapter;
