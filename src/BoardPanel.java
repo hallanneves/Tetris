@@ -103,7 +103,7 @@ public class BoardPanel extends JPanel {
 	/**
 	 * The tiles that make up the board.
 	 */
-	private TileType[][] tiles;
+	public TileType[][] tiles;
 		
 	/**
 	 * Crates a new GameBoard instance.
